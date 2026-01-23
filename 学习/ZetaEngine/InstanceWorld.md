@@ -1,0 +1,7 @@
+- [x] Ray 在math目录创建ray.h
+- [x] SampleTriangle2D 放到math目录中的triangle里
+- [x] intersection函数放到Bounds里
+- [x] LandscapeUtil 功能集成到landscape中
+- [ ] ProceduralFoliageSpawner 放到InstanceWorld函数里
+- [ ] 随机数改用effolkronium
+- [x] 植被模型放到foliage的对应目录，硬编码植被改为目录检索
