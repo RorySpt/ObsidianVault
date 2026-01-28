@@ -1,0 +1,84 @@
+/* Unreal Engine C++ 代码块样式 */
+
+/* 全局代码块样式 */
+.cm-s-obsidian .CodeMirror {
+  font-family: "Fira Code", monospace; /* 推荐使用 Fira Code，具有连字特性 */
+  font-size: 14px;
+  line-height: 1.5;
+  background-color: #282c34; /* 深色背景 */
+  color: #abb2bf; /* 默认文本颜色 */
+}
+
+/* 关键字 */
+.cm-s-obsidian .CodeMirror span.cm-keyword {
+  color: #c678dd; /* 紫色 */
+  font-weight: bold;
+}
+
+/* 字符串 */
+.cm-s-obsidian .CodeMirror span.cm-string {
+  color: #98c379; /* 绿色 */
+}
+
+/* 数字 */
+.cm-s-obsidian .CodeMirror span.cm-number {
+  color: #d19a66; /* 橙色 */
+}
+
+/* 注释 */
+.cm-s-obsidian .CodeMirror span.cm-comment {
+  color: #5c6370; /* 灰色 */
+  font-style: italic;
+}
+
+/* 运算符 */
+.cm-s-obsidian .CodeMirror span.cm-operator {
+  color: #abb2bf;
+}
+
+/* 变量 */
+.cm-s-obsidian .CodeMirror span.cm-variable {
+  color: #e06c75; /* 红色 */
+}
+
+/* 函数名 */
+.cm-s-obsidian .CodeMirror span.cm-def {
+  color: #61afef; /* 蓝色 */
+  font-weight: bold;
+}
+
+/* 类型 */
+.cm-s-obsidian .CodeMirror span.cm-property {
+  color: #e5c07b; /* 黄色 */
+}
+
+/* 宏定义 */
+.cm-s-obsidian .CodeMirror span.cm-meta {
+  color: #d19a66;
+}
+
+/* 预处理器指令 (如 #include) */
+.cm-s-obsidian .CodeMirror span.cm-header {
+  color: #81a1c1;
+}
+
+/* UE 特有语法 */
+.cm-s-obsidian .CodeMirror span.cm-uclass { /* UCLASS() 宏 */
+  color: #61afef;
+  font-weight: bold;
+}
+
+.cm-s-obsidian .CodeMirror span.cm-uproperty { /* UPROPERTY() 宏 */
+  color: #e5c07b;
+  font-weight: bold;
+}
+
+.cm-s-obsidian .CodeMirror span.cm-ufunction { /* UFUNCTION() 宏 */
+  color: #61afef;
+  font-weight: bold;
+}
+
+/* 行号 */
+.CodeMirror-linenumber {
+  color: #5c6370;
+}

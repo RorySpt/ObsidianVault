@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "b81211b22374ccb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6a7b5ecf7e9604d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f8d9247a2249045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/ZetaEngine/编码.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "编码"
+            }
+          },
+          {
+            "id": "5677197430aa47fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/ZetaEngine/问题.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "问题"
+            }
+          },
+          {
+            "id": "eaf9fac1cd575d74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习/ZetaEngine/Scene.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Scene"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "886438527a9f1a0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "728894d07893f377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20bd4b664ce8799d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fcbea2ed84f137e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e2df74c273f71b55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "right": {
+    "id": "05a478f367f00882",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4ba339a6537e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b5e46f6a4a546d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "开发/知识库/vcpkg使用clang编译.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "vcpkg使用clang编译 的反向链接列表"
+            }
+          },
+          {
+            "id": "7829f992b2290116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "290f39528bb08877",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6fc37a199f775d2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/ZetaEngine/Scene.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Scene 的大纲"
+            }
+          },
+          {
+            "id": "4b734634e1eac2c1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 945.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "eaf9fac1cd575d74",
+  "lastOpenFiles": [
+    "学习/ZetaEngine/Renderer.md",
+    "学习/ZetaEngine/Scene.md",
+    "学习/ZetaEngine/未命名.md",
+    "学习/ZetaEngine/粒子系统.md",
+    "学习/ZetaEngine/编码.md",
+    "学习/ZetaEngine/InstanceWorld.md",
+    "学习/ZetaEngine/问题.md",
+    "开发/包围盒.md",
+    "开发/工作总结（10.27~1.22）.md",
+    "开发/Gizmo/实现思路.md",
+    "学习/Vulkan/Vulkan程序创建.md",
+    "学习/Vulkan/渲染流程.md",
+    "开发/Gizmo/未命名.md",
+    "开发/Gizmo/未命名.md.BASE.md",
+    "开发/Gizmo/未命名.md.REMOTE.md",
+    "开发/Gizmo/未命名.md.LOCAL.md",
+    "开发/其他/task_scheduler.md",
+    "开发/视频推流/进度/2025-12-1.md",
+    "开发/视频推流/进度/2025-11-24.md",
+    "开发/视频推流/视频推流.md",
+    "开发/视频推流/Vulkan-Video-Deep-Dive-Apr21_billingual.pdf",
+    "开发/视频推流/Vulkan视频拓展Demo学习.md",
+    "开发/视频推流/网页端交互.md",
+    "开发/性能分析/性能分析-香港地图.md",
+    "开发/性能分析/内存性能.md",
+    "开发/知识库/vcpkg使用clang编译.md",
+    "学习/ZetaEngine/render.xmind",
+    "开发/视频推流/WebRTC推流流程.xmind",
+    "Pasted image 20251204191511.png",
+    "Pasted image 20251204191309.png",
+    "renderer.svg",
+    "RenderGraph.svg",
+    "renderer 1.svg",
+    "学习/ZetaEngine",
+    "开发/未命名",
+    "欢迎.md",
+    "开发/Gizmo",
+    "学习/Vulkan",
+    "学习",
+    "Pasted image 20251202112733.png",
+    "开发/性能分析/Pasted image 20251202103620.png",
+    "开发/性能分析/e632cb0e-5f91-424c-a3a6-6e2907225b5b.png",
+    "开发/性能分析/Pasted image 20251202111837.png",
+    "开发/性能分析/Pasted image 20251202111658.png",
+    "开发/性能分析",
+    "开发/其他",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "UnrealSpecifiers/未命名.canvas"
+  ]
+}
