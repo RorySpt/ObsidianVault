@@ -1,8 +1,8 @@
 {
-  "cssTheme": "Atom",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [],
   "theme": "moonstone",
   "monospaceFontFamily": "Cascadia Code",
   "baseFontSizeAction": false,
-  "nativeMenus": true
+  "nativeMenus": false
 }

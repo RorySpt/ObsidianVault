@@ -37,31 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习/ZetaEngine/问题.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "问题"
-            }
-          },
-          {
-            "id": "eaf9fac1cd575d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/ZetaEngine/Scene.md",
+                "file": "学习/ZetaEngine/billboard_component.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Scene"
+              "title": "billboard_component"
+            }
+          },
+          {
+            "id": "27dc2f2608dcd799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开发/其他/任务清单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "任务清单"
             }
           }
         ],
@@ -200,13 +200,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/ZetaEngine/Scene.md",
+                "file": "开发/音频系统/audio_usage_by_scenario_zh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Scene 的大纲"
+              "title": "audio_usage_by_scenario_zh 的大纲"
             }
           },
           {
@@ -220,11 +220,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 945.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,57 +236,58 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "github-sync:Sync with Remote": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "vscode-editor:新建代码文件": false
     }
   },
-  "active": "eaf9fac1cd575d74",
+  "active": "27dc2f2608dcd799",
   "lastOpenFiles": [
-    "学习/ZetaEngine/Renderer.md",
-    "学习/ZetaEngine/Scene.md",
-    "学习/ZetaEngine/未命名.md",
-    "学习/ZetaEngine/粒子系统.md",
-    "学习/ZetaEngine/编码.md",
-    "学习/ZetaEngine/InstanceWorld.md",
-    "学习/ZetaEngine/问题.md",
-    "开发/包围盒.md",
+    "未命名 5.base",
+    "未命名 4.base",
+    "开发/全局配置系统/未命名.md",
+    "开发/全局配置系统/config_system_design_goals.md",
+    "开发/其他/任务清单.md",
+    "学习/ZetaEngine/ui/imgui-architecture.md",
+    "开发/全局配置系统",
     "开发/工作总结（10.27~1.22）.md",
     "开发/Gizmo/实现思路.md",
-    "学习/Vulkan/Vulkan程序创建.md",
-    "学习/Vulkan/渲染流程.md",
-    "开发/Gizmo/未命名.md",
-    "开发/Gizmo/未命名.md.BASE.md",
-    "开发/Gizmo/未命名.md.REMOTE.md",
-    "开发/Gizmo/未命名.md.LOCAL.md",
-    "开发/其他/task_scheduler.md",
-    "开发/视频推流/进度/2025-12-1.md",
-    "开发/视频推流/进度/2025-11-24.md",
-    "开发/视频推流/视频推流.md",
-    "开发/视频推流/Vulkan-Video-Deep-Dive-Apr21_billingual.pdf",
-    "开发/视频推流/Vulkan视频拓展Demo学习.md",
-    "开发/视频推流/网页端交互.md",
-    "开发/性能分析/性能分析-香港地图.md",
-    "开发/性能分析/内存性能.md",
-    "开发/知识库/vcpkg使用clang编译.md",
+    "开发/曲线.md",
+    "开发/曲线编辑器.md",
+    "Pasted image 20260316150711.png",
+    "Pasted image 20260507200048.png",
+    "开发/音频系统/audio_usage_by_scenario_zh.md",
+    "开发/音频系统/audio_system_api_zh.md",
+    "开发/音频系统/audio_system_overview_zh.md",
+    "学习/ZetaEngine/ui/imgui升级.md",
+    "开发/音频系统/audio_system_reference_zh.md",
+    "开发/音频系统/audio_system_architecture_zh.md",
+    "开发/音频系统/audio_system_plan.md",
+    "开发/音频系统/audio_system_ai_guide_zh.md",
+    "开发/音频系统",
+    "学习/ZetaEngine/imgui_stack_layout_usage_zh.md",
+    "学习/ZetaEngine/粒子系统.md",
+    "未命名 3.base",
+    "未命名 2.base",
+    "学习/ZetaEngine/dpi适配/dpi_refactor_plan_zh.md",
+    "学习/ZetaEngine/dpi适配/dpi适配.md",
+    "学习/ZetaEngine/粒子系统/particle_system_architecture_zh.md",
+    "学习/ZetaEngine/粒子系统/未命名.md",
+    "学习/ZetaEngine/Renderer.md",
     "学习/ZetaEngine/render.xmind",
-    "开发/视频推流/WebRTC推流流程.xmind",
+    "学习/ZetaEngine/PropertyPainter.md",
+    "学习/ZetaEngine/InstanceWorld.md",
+    "20260225-0928-18.2698468.mp4",
+    "未命名 1.base",
+    "未命名.base",
+    "学习/ZetaEngine/粒子系统",
+    "Pasted image 20260313163357.png",
+    "Pasted image 20260313163356.png",
+    "Pasted image 20260313162802.png",
+    "Pasted image 20260213100758.png",
+    "Pasted image 20260213100456.png",
+    "Pasted image 20260213100212.png",
+    "Pasted image 20260213100138.png",
     "Pasted image 20251204191511.png",
-    "Pasted image 20251204191309.png",
-    "renderer.svg",
-    "RenderGraph.svg",
-    "renderer 1.svg",
-    "学习/ZetaEngine",
-    "开发/未命名",
-    "欢迎.md",
-    "开发/Gizmo",
-    "学习/Vulkan",
-    "学习",
-    "Pasted image 20251202112733.png",
-    "开发/性能分析/Pasted image 20251202103620.png",
-    "开发/性能分析/e632cb0e-5f91-424c-a3a6-6e2907225b5b.png",
-    "开发/性能分析/Pasted image 20251202111837.png",
-    "开发/性能分析/Pasted image 20251202111658.png",
-    "开发/性能分析",
-    "开发/其他",
     "未命名.canvas",
     "未命名 1.canvas",
     "UnrealSpecifiers/未命名.canvas"

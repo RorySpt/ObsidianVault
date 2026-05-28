@@ -3,13 +3,15 @@
   "promptDelete": false,
   "readableLineLength": false,
   "pdfExportSettings": {
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
-    "margin": "2",
+    "margin": "1",
     "downscalePercent": 100
   },
   "showLineNumber": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showInlineTitle": false
 }
